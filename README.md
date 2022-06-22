@@ -23,7 +23,7 @@
 
 - Africa also has the lowest average of caesarean births, at just 7.13. Compared to Europe at a average of 25.20. This can be connoted with potential medical disparities. 
 
--These metrics followed these trends throughout the investigation. 
+- These metrics followed these trends throughout the investigation. 
 
 - I found a consistent trend between Europe, Africa and Eastern Mediterranean regions have increased their percentage of skilled personnel 
 
